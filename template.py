@@ -27,14 +27,14 @@ list_of_files = [
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "research.trials.ipynb",
+    "research/trials.ipynb",
     "templates/index.html"
 ]
 
 for filepath in list_of_files:
     #converting filepath to windows format
     filepath = Path(filepath)
-    #spliting file and file directory
+    #spliting filepath into file directory and file name
     filedir, filename = os.path.split(filepath)
 
     if filedir != "":
