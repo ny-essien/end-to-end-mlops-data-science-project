@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nsika/Videos/TECH/Machine%20Learning/end-to-end-mlops-data-science-project/mlruns/0/59c22318a7394ace94bbe9cf30e89f54/artifacts
+end_time: 1698432402268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59c22318a7394ace94bbe9cf30e89f54
+run_name: adaptable-cod-718
+run_uuid: 59c22318a7394ace94bbe9cf30e89f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698432396875
+status: 3
+tags: []
+user_id: nsika

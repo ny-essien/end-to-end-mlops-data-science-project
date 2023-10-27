@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nsika/Videos/TECH/Machine%20Learning/end-to-end-mlops-data-science-project/mlruns/0/804f32e5a74946c9b52f324dd9907288/artifacts
+end_time: 1698432179898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 804f32e5a74946c9b52f324dd9907288
+run_name: merciful-shrimp-903
+run_uuid: 804f32e5a74946c9b52f324dd9907288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698432159971
+status: 3
+tags: []
+user_id: nsika
