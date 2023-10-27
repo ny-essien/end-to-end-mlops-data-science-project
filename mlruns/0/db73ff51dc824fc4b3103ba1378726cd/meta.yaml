@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nsika/Videos/TECH/Machine%20Learning/end-to-end-mlops-data-science-project/mlruns/0/db73ff51dc824fc4b3103ba1378726cd/artifacts
+end_time: 1698432774112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db73ff51dc824fc4b3103ba1378726cd
+run_name: youthful-hog-246
+run_uuid: db73ff51dc824fc4b3103ba1378726cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698432767641
+status: 3
+tags: []
+user_id: nsika

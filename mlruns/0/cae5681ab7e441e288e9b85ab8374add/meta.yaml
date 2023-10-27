@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nsika/Videos/TECH/Machine%20Learning/end-to-end-mlops-data-science-project/mlruns/0/cae5681ab7e441e288e9b85ab8374add/artifacts
+end_time: 1698432827780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cae5681ab7e441e288e9b85ab8374add
+run_name: able-conch-315
+run_uuid: cae5681ab7e441e288e9b85ab8374add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698432821858
+status: 3
+tags: []
+user_id: nsika
